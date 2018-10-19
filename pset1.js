@@ -17,7 +17,18 @@ Follow the following steps ONLY using your command line:
 12. Delete the test folder.
 
 ******************/
-
+// 1. Navigate to Pursuit directory (created w/mkdir Pursuit)
+// 2. mkdir my_first_direc (check with ls -ahl)
+// 3. cd my_first_direc (check location w/pwd)
+// 4. touch.js
+// 5. mkdir assignments
+// 6. mv touch.js assignments (check with ls -ahl)
+// 7. cd assignments
+// 8. rm touch.js
+// 9. cd my_first_direc
+//10. rm -rf assignments
+//11. cd Pursuit
+//12. rm -rf Pursuit
 
 
 /******************
