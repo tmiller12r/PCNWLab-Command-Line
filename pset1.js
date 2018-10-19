@@ -37,14 +37,20 @@ PROBLEM 2:
 Follow the following steps ONLY using your command line:
 
 1. Navigate to the inside of your Documents folder
-3. Create a file called foo.js
-4. Open the file with a text editor, (Atom/VSCode)
-5. Add the following text to the file: console.log('hello')
-6. Save and exit the file
-7. Open the file again with a text editor, (Atom/VSCode)
-8. Add the following in a new line: hellohellohello
-9. Exit without saving
-
+2. Create a file called foo.js
+// touch foo.js  
+3. Open the file with a text editor, (Atom/VSCode)
+// open foo.js
+4. Add the following text to the file: console.log('hello')
+// console.log('hello);
+5. Save and exit the file
+// command S & command W
+6. Open the file again with a text editor, (Atom/VSCode)
+// open foo.js
+7. Add the following in a new line: hellohellohello
+// console.log('hellohellohello');
+8. Exit without saving
+// command W => "Exit without saving?" => No
 ******************/
 
 
